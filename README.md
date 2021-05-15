@@ -1,4 +1,4 @@
-# To test the exercises via container
+# Configurations for test container ruby
 
 1. Build this image
 ```
